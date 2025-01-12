@@ -1,5 +1,13 @@
 ![Go Clean Template](docs/img/logo.svg)
 
+
+# Go Clean template TT (Tahassur Talih's notes)
+
+- http://localhost:8080/swagger/index.html#/translation/history
+- swag problem was solved by investigating original repo's issues.
+- vendor will be used adherence to 12 factor second rule.
+- There is a problem with setting the working directory while running the application in debug mode on the local environment.
+
 # Go Clean template
 [🇨🇳中文](README_CN.md)
 
