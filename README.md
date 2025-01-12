@@ -4,7 +4,7 @@
 # Go Clean template TT (Tahassur Talih's notes)
 
 - http://localhost:8080/swagger/index.html#/translation/history
-- swag problem was solved by investigating original repo's issues.
+- swag problem was solved by investigating original repo's issues. (https://github.com/evrone/go-clean-template/pull/202/files)
 - vendor will be used adherence to 12 factor second rule.
 - There is a problem with setting the working directory while running the application in debug mode on the local environment.
 
